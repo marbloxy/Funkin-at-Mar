@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarFunker.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idledance instance 10000" x="94" y="94" width="274" height="736" pivotX="36.95" pivotY="340.8"/>
+	<SubTexture name="Idledance instance 10001" x="462" y="94" width="274" height="736"/>
+	<SubTexture name="Idledance instance 10002" x="830" y="94" width="273" height="736" frameX="0" frameY="0" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10003" x="1197" y="94" width="273" height="734" frameX="0" frameY="-2" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10004" x="1564" y="94" width="272" height="733" frameX="0" frameY="-3" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10005" x="1930" y="94" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10006" x="2295" y="94" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10007" x="2660" y="94" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10008" x="3025" y="94" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10009" x="3390" y="94" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10010" x="94" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10011" x="459" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10012" x="824" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10013" x="1189" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10014" x="1554" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10015" x="1919" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10016" x="2284" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10017" x="2649" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10018" x="3014" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+	<SubTexture name="Idledance instance 10019" x="3379" y="924" width="271" height="732" frameX="0" frameY="-4" frameWidth="274" frameHeight="736"/>
+</TextureAtlas>

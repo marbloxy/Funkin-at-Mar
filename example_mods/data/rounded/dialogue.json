@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bruh what the fuck is dis place"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i was just like, coolswag rapping and shit then my gf started glitching then i fuckin uhh disappeared and appeared here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyway ummmm who the fuck are you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "name's mar i think?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhhhhh sorry what the hell how did you get here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont ask me. guessing you want to rapbattle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "sure??!??????"
+		}
+	]
+}

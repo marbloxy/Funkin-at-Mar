@@ -1,0 +1,50 @@
+{
+	"storyName": "Funkin' At Mar!",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "marbg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"marfunker",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Rounded",
+			"mar",
+			[
+				166,
+				0,
+				253
+			]
+		],
+		[
+			"Slowed Down",
+			"mar",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"Runner",
+			"mar",
+			[
+				146,
+				0,
+				155
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "meme'd!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "marweek",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"...........",
+		"........",
+		".........."
+	],
+	"songs": [
+		[
+			"Memed",
+			"mar",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Pixelated",
+			"pixelmar",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

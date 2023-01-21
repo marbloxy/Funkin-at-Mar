@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marpotrait.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Uppose instance 10000" x="100" y="100" width="313" height="643" pivotX="41.85" pivotY="401.95" frameX="-6" frameY="-4" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10001" x="513" y="100" width="313" height="643" frameX="-6" frameY="-4" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10002" x="926" y="100" width="317" height="644" frameX="0" frameY="-3" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10003" x="1343" y="100" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10004" x="1760" y="100" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10005" x="2177" y="100" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10006" x="2594" y="100" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10007" x="3011" y="100" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10008" x="3428" y="100" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10009" x="100" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10010" x="517" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10011" x="934" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10012" x="1351" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10013" x="1768" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10014" x="2185" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10015" x="2602" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10016" x="3019" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10017" x="3436" y="847" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10018" x="100" y="1594" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+	<SubTexture name="Uppose instance 10019" x="517" y="1594" width="317" height="647" frameX="0" frameY="0" frameWidth="319" frameHeight="647"/>
+</TextureAtlas>

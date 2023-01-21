@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "k are you lazy to make a cutscene?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "creative"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "knock it off"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "marpotrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "k done"
+		}
+	]
+}
